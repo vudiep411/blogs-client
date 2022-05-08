@@ -79,7 +79,7 @@ export default function SignUp(props) {
 
   const googleFailure = (err) => {
       console.log(err)
-      console.log("Fail")
+      console.log("Fail to use google Sign In")
   }
  
 
