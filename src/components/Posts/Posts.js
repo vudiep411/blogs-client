@@ -43,6 +43,7 @@ const Posts = ({setCurrentId}) => {
     </div>) : (
       <Grid>
         <Container maxWidth='sm'>
+          <br/>
           {/* Search Bar */}
           <TextField
           className={classes.searchBar}
