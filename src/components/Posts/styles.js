@@ -16,7 +16,7 @@ export default makeStyles((theme) => ({
     textAlign: 'center',    
   },
   searchBar: {
-    marginBottom: '40px'
+   padding: '40px'
   },
   pagination: {
     borderRadius: 4,

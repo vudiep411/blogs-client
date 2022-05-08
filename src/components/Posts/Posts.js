@@ -43,14 +43,12 @@ const Posts = ({setCurrentId}) => {
     </div>) : (
       <Grid>
         <Container maxWidth='sm'>
-          <br/>
-          {/* Search Bar */}
           <TextField
           className={classes.searchBar}
           id="outlined-basic"
           variant="filled"
           fullWidth
-          label="Filter Posts by Title"
+          placeholder="Filter Posts by Title"
           onChange={e => setSearchTerm(e.target.value.toLowerCase())}
           />
         </Container>
