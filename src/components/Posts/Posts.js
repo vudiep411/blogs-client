@@ -42,7 +42,7 @@ const Posts = ({setCurrentId}) => {
       <Typography variant='h5' >No Posts Yet</Typography>
     </div>) : (
       <Grid>
-        <Container maxWidth='sm' style={{marginBottom:'30px'}}>
+        <Container maxWidth='sm' style={{marginBottom:'44px'}}>
           <TextField
           id="outlined-basic"
           variant="filled"
