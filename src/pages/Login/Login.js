@@ -183,7 +183,7 @@ export default function SignUp(props) {
             </form>
             <Grid sx={{ marginBottom:2}} >
                 <GoogleLogin
-                    clientId="717714281561-a0qrr76pqrooftpte3291337v29n2jgb.apps.googleusercontent.com"
+                    // clientId="717714281561-a0qrr76pqrooftpte3291337v29n2jgb.apps.googleusercontent.com"
                     onSuccess={googleSuccess}
                     onFailure={googleFailure}
                     cookiePolicy="single_host_origin"

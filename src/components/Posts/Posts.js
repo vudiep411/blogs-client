@@ -47,7 +47,7 @@ const Posts = ({setCurrentId}) => {
           id="outlined-basic"
           variant="filled"
           fullWidth
-          placeholder="Filter Posts by Title"
+          label="Filter Posts by Title"
           onChange={e => setSearchTerm(e.target.value.toLowerCase())}
           />
         </Container>
