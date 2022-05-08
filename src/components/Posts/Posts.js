@@ -42,9 +42,8 @@ const Posts = ({setCurrentId}) => {
       <Typography variant='h5' >No Posts Yet</Typography>
     </div>) : (
       <Grid>
-        <Container maxWidth='sm'>
+        <Container maxWidth='sm' style={{marginBottom:'30px'}}>
           <TextField
-          className={classes.searchBar}
           id="outlined-basic"
           variant="filled"
           fullWidth
