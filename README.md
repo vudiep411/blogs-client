@@ -17,6 +17,7 @@
 
 <img src="blog-stories1.png" alt="img" height="600" >
 
+<br/><br/>
 <p>Visit the fully deployed project</p>
 <a href='https://regal-sunshine-b112e5.netlify.app/login'>Click here</a>
 
