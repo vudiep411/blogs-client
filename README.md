@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div>
-<h3 align="center">Blog-Stories</h3>
+<h1 align="center">Blog-Stories</h1>
 
   <p align="center">
    Using React, Node.js, Express & MongoDB post a post of your own for people to see! User can create accounts and manage posts.
