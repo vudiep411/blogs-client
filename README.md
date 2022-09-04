@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/logo.png" alt="img">
+<img src="blog-stories1.png" alt="img">
 
 <p>Visit the fully deployed project</p>
 <a href='https://regal-sunshine-b112e5.netlify.app/login'>Click here</a>
