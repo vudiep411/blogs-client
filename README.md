@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div>
 <h3 align="center">Blog-Stories</h3>
 
   <p align="center">
